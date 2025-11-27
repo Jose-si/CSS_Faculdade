@@ -1,0 +1,25 @@
+body{
+    background-color: greenyellow;
+    background-image: url(https://tse4.mm.bing.net/th/id/OIP.Q5CCwFR8FxLHUo3fkXasJgHaEK?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.tes{
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:crimson;
+}
+
+.test{
+    font-size: 45px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:crimson;
+    border: 5px solid white;
+    margin: 1px;
+    padding: 5px;
+}
+
+.tesa{
+    font-size: 550px;
+}
